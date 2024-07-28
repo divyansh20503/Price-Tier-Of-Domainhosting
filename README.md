@@ -1,2 +1,2 @@
-# Price-Tier-Of-Domainhosting
+# Price-Tier-Of-Domain-hosting
 Created using html and css
